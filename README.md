@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sush-sketc/sush-sketc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sush-sketc)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+there+,+I'm+Sush+!;Architect+of+the+digital+unknown+.+Navigating+the+shadows+of+the+web+,+crafting+echoes+in+the+void)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2800&pause=980&color=1FF77B&background=A98BFF00&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1550&height=105&lines=%F0%9F%98%84+Hey+there+%2C+I'm+Sush+!+;Architect+of+the+digital+unknown.+Navigating+the+shadows+of+the+web.+;crafting+echoes+in+the+void)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -32,6 +16,8 @@ With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driv
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
+- CNCF | Linux 基金会 LFAPAC
+- 专注于 API 网关 | Kubernetes 网络 | 维护多集群 Kubernetes 网络解决方案 | EnvoyProxy、Istio | DevOps
 
 ---
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)
