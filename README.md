@@ -16,8 +16,12 @@ With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driv
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
-- CNCF | Linux 基金会 LFAPAC
-- 专注于 API 网关 | Kubernetes 网络 | 维护多集群 Kubernetes 网络解决方案 | EnvoyProxy、Istio | DevOps
+- CNCF | Linux 基金会 LFAPAC 
+- 专注于 [API网关](https://github.com/kubernetes-sigs/gateway-api)
+- Kubernetes 网络 calico
+- 维护多集群 Kubernetes 网络解决方案
+- Istio
+- DevOps
 
 ---
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)
