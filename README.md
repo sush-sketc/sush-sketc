@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sush-sketc)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sush-sketc&layout=compact" />
 </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc)](https://github.com/ashutosh00710/github-readme-activity-graph)
