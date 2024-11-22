@@ -1,3 +1,4 @@
+> [English](README.md) | 简体中文
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2800&pause=980&color=1FF77B&background=A98BFF00&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1550&height=105&lines=%F0%9F%98%84+Hey+there+%2C+I'm+Sush+!+;Architect+of+the+digital+unknown.+Navigating+the+shadows+of+the+web.+;crafting+echoes+in+the+void)](https://git.io/typing-svg)
