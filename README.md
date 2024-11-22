@@ -1,5 +1,23 @@
 > [English](README.md) | 简体中文
-## Hi there 👋
+
+<p align="center">
+<a href="https://radondb.com/"><img src="https://github.com/radondb/radondb-mysql-kubernetes/blob/main/docs/images/logo_radondb-mysql.png?raw=true" alt="banner" width="200px"></a>
+</p>
+<p align="center">
+<b><i>面向云原生、容器化的数据库开源社区</i></b>
+</p>
+
+<p align=center>
+<a href="https://goreportcard.com/report/github.com/radondb/radondb-mysql-kubernetes"><img src="https://goreportcard.com/badge/github.com/radondb/radondb-mysql-kubernetes" alt="A+"></a>
+<a href="https://img.shields.io/github/stars/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/stars/radondb/radondb-mysql-kubernetes"></a>
+<a href="https://img.shields.io/github/issues/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/issues/radondb/radondb-mysql-kubernetes"></a>
+<a href="https://img.shields.io/github/forks/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/forks/radondb/radondb-mysql-kubernetes"></a>
+<a href="https://img.shields.io/github/v/release/radondb/radondb-mysql-kubernetes?include_prereleases"><img src="https://img.shields.io/github/v/release/radondb/radondb-mysql-kubernetes?include_prereleases"></a>
+<a href="https://img.shields.io/github/license/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/license/radondb/radondb-mysql-kubernetes"></a>
+</p>
+
+----
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2800&pause=980&color=1FF77B&background=A98BFF00&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1550&height=105&lines=%F0%9F%98%84+Hey+there+%2C+I'm+Sush+!+;Architect+of+the+digital+unknown.+Navigating+the+shadows+of+the+web.+;crafting+echoes+in+the+void)](https://git.io/typing-svg)
 
