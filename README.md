@@ -24,7 +24,8 @@ With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driv
 - DevOps
 
 ---
- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)
+ <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)-->
+ 
  ![Alt](https://repobeats.axiom.co/api/embed/19bb69a6ba32252bdcbdbfb393cfbebd070b3b9f.svg "Repobeats analytics image")
 <!--
 <div align="center">
