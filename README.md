@@ -1,7 +1,7 @@
 > [English](README.md) | 简体中文
 
 <p align="center">
-<a <img src="https://github.com/sush-sketc/sush-sketc/tree/master/image/selat.jpg" alt="banner" width="600px"></a>
+<img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/selat.jpg">
 </p>
 <p align="center">
 <b>
