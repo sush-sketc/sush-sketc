@@ -1,34 +1,25 @@
 > [English](README.md) | 简体中文
 
 <p align="center">
-<a href="https://radondb.com/"><img src="https://github.com/radondb/radondb-mysql-kubernetes/blob/main/docs/images/logo_radondb-mysql.png?raw=true" alt="banner" width="200px"></a>
+<a <img src="https://github.com/sush-sketc/sush-sketc/tree/master/image/selat.jpg" alt="banner" width="600px"></a>
 </p>
 <p align="center">
-<b><i>面向云原生、容器化的数据库开源社区</i></b>
-<!--
+<b>
+  <i>Hello, I am an operations engineer</i>
+  <i>My name is Sush-Sketc, and I'm from Shanghai, China.</i>
+</b>
 </p>
-<p align=center>
-<a href="https://goreportcard.com/report/github.com/radondb/radondb-mysql-kubernetes"><img src="https://goreportcard.com/badge/github.com/radondb/radondb-mysql-kubernetes" alt="A+"></a>
-<a href="https://img.shields.io/github/stars/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/stars/radondb/radondb-mysql-kubernetes"></a>
-<a href="https://img.shields.io/github/issues/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/issues/radondb/radondb-mysql-kubernetes"></a>
-<a href="https://img.shields.io/github/forks/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/forks/radondb/radondb-mysql-kubernetes"></a>
-<a href="https://img.shields.io/github/v/release/radondb/radondb-mysql-kubernetes?include_prereleases"><img src="https://img.shields.io/github/v/release/radondb/radondb-mysql-kubernetes?include_prereleases"></a>
-<a href="https://img.shields.io/github/license/radondb/radondb-mysql-kubernetes"><img src="https://img.shields.io/github/license/radondb/radondb-mysql-kubernetes"></a>
-</p>
--->
-----
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2800&pause=980&color=1FF77B&background=A98BFF00&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=1550&height=105&lines=%F0%9F%98%84+Hey+there+%2C+I'm+Sush+!+;Architect+of+the+digital+unknown.+Navigating+the+shadows+of+the+web.+;crafting+echoes+in+the+void)](https://git.io/typing-svg)
-
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=3776AB)
 ![Kubernetes](https://img.shields.io/badge/CNCF-Kubernetes-informational?style=flat&logo=Kubernetes&color=777BB4)
 ![Prometheus](https://img.shields.io/badge/Framework-Prometheus-informational?style=flat&logo=Prometheus&color=FF2D20)
-![Go](https://img.shields.io/badge/code-Go-informational?style=flat&logo=Go&color=000000)
+![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-script?style=flat-square&logo=html5&logoColor=white" />
+
+----
 
 With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
