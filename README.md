@@ -1,13 +1,10 @@
 > [English](README.md) | 简体中文
-
-<p align="center">
-  <img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/selat.jpg">
-</p>
 <p align="center">
 <b>
   <i>Hello, I am an operations engineer</i>
   <i>My name is Sush-Sketc, and I'm from Shanghai, China.</i>
 </b>
+
 </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -20,6 +17,10 @@
 <img src="https://img.shields.io/badge/Shell-script?style=flat-square&logo=html5&logoColor=white" />
 
 ----
+
+<p align="center">
+  <img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/6560FCA5-618B-436A-B09A-29E3849C9632_1_105_c.jpeg">
+</p>
 
 With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
