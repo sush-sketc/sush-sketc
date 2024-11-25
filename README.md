@@ -1,10 +1,9 @@
-> [English](README.md) | 简体中文
-<p align="center">
+[English](README.md) | 简体中文
+<p align="left">
 <b>
-  <i>Hello, I am an operations engineer</i>
+  <i>Hello, I am ☕️ and 🍫 driven engineer</i><br>
   <i>My name is Sush-Sketc, and I'm from Shanghai, China.</i>
 </b>
-
 </p>
 
 ![Ceph](https://img.shields.io/badge/Ceph-informational?style=flat&logo=Ceph&color=F7DF1E)
@@ -16,22 +15,11 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![containerd](https://img.shields.io/badge/containerd-cri-v1?logo=containerd)
 
-<img src="https://img.shields.io/badge/Shell-script?style=flat-square&logo=html5&logoColor=white" />
-
 ----
 
 <p align="center">
   <img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/6560FCA5-618B-436A-B09A-29E3849C9632_1_105_c.jpeg">
 </p>
-
-☕️ and 🍫 driven engineer.<br>
-专注于服务器的重启操作，偶尔触发重装被动。擅长不可能，不是我，那不行的三连操作
 ---
- <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)-->
  
  ![Alt](https://repobeats.axiom.co/api/embed/19bb69a6ba32252bdcbdbfb393cfbebd070b3b9f.svg "Repobeats analytics image")
-<!--
-<div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sush-sketc&layout=compact" />
-</div>
- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc) -->
