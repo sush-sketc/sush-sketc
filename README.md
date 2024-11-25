@@ -7,7 +7,7 @@
 
 </p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Ceph](https://img.shields.io/badge/Ceph-informational?style=flat&logo=Ceph&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=3776AB)
 ![Kubernetes](https://img.shields.io/badge/CNCF-Kubernetes-informational?style=flat&logo=Kubernetes&color=777BB4)
 ![Prometheus](https://img.shields.io/badge/Framework-Prometheus-informational?style=flat&logo=Prometheus&color=FF2D20)
