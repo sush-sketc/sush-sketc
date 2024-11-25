@@ -22,8 +22,8 @@
   <img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/6560FCA5-618B-436A-B09A-29E3849C9632_1_105_c.jpeg">
 </p>
 
-☕️ and 🍫 driven engineer.
-专注于服务器的重启操作，偶尔出发重装被动，擅长，不可能，不是我，那不行的三连操作
+☕️ and 🍫 driven engineer.<br>
+专注于服务器的重启操作，偶尔触发重装被动。擅长不可能，不是我，那不行的三连操作
 ---
  <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)-->
  
