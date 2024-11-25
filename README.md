@@ -22,18 +22,8 @@
   <img src="https://github.com/sush-sketc/sush-sketc/blob/master/image/6560FCA5-618B-436A-B09A-29E3849C9632_1_105_c.jpeg">
 </p>
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
-
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
-- CNCF | Linux 基金会 LFAPAC 
-- 专注于 [API网关](https://github.com/kubernetes-sigs/gateway-api)
-- Kubernetes 网络 calico
-- 维护多集群 Kubernetes 网络解决方案
-- Istio
-- DevOps
-
+☕️ and 🍫 driven engineer.
+专注于服务器的重启操作，偶尔出发重装被动，擅长，不可能，不是我，那不行的三连操作
 ---
  <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sush-sketc&theme=dracula)-->
  
