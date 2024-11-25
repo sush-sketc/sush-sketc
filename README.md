@@ -14,6 +14,8 @@
 ![Go](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![containerd](https://img.shields.io/badge/containerd-cri-v1?logo=containerd)
+
 <img src="https://img.shields.io/badge/Shell-script?style=flat-square&logo=html5&logoColor=white" />
 
 ----
